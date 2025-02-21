@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **Backend Development**  
 
-📄 Know about my experiences: **[View Resume]([https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67800d99565a02c8ebc98589])**  
+📄 Know about my experiences: **[View Resume](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67b73ef4dae27d0d640da26b)**  
 
 🚀 Check out my projects:  
 - **[MoneyMap - Personal Finance Tracker](https://github.com/vkeshari23/MoneyMap-Personal-finance-Tracker-/tree/main/MoneyMap)**

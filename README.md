@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on **[Personal Finance Tracker - MoneyMap](https://github.com/vkeshari23/MoneyMap-Personal-finance-Tracker-/tree/main/MoneyMap)**  
 
-🌱 I’m currently learning **Backend Development**  
+🌱 I’m a Full Stack **MERN DEVELOPER**  
 
 📄 Know about my experiences: **[View Resume](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67b73ef4dae27d0d640da26b)**  
 

@@ -1,177 +1,166 @@
 <div align="center">
-
-<!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F6BFF,100:38D6F5&height=220&section=header&text=Hi%20There,%20I'm%20Vinay%20Keshari&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20Next.js&descAlignY=58&descSize=18" />
-
-<!-- Typing animation -->
-<a href="https://github.com/vkeshari23">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=38D6F5&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+(MERN);Next.js+%26+Node.js+Engineer;Building+scalable+production+apps;Turning+ideas+into+shipped+products" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=vkeshari23&label=Profile%20Views&color=2F6BFF&style=for-the-badge" />
-<a href="https://www.linkedin.com/in/vinay-keshari-301125240/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:vinaykeshari076@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.me/919305266247"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vinay%20Keshari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Web%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20AI%20Enthusiast&descAlignY=56&descSize=16&descColor=cccccc" />
 </div>
-
-<br/>
-
-## 🚀 About Me
-
-```yaml
-name: Vinay Keshari
-role: Full Stack Developer (SDE-1)
-location: Varanasi, Uttar Pradesh, India
-current_company: Tatvam AI Labs
-experience: 1.5+ years
-focus: MERN Stack · Next.js · Scalable Web Applications
-currently_building: Divyamarga · Sai Samasthana · Gurumurthy Guruji
-achievement: "🏆 Fingerprint of Sheshi FR2.0 — Product Award"
-fun_fact: "♟️ Chess Champion — strategy on and off the board"
-```
-
-- 🔭 Currently building full stack products at **Tatvam AI Labs** using Next.js, Node.js & PostgreSQL
-- 🏢 Previously shipped **Sheshi FR2.0**, a financial reporting platform, at **Sheshi AI**
-- 🌱 Sharpened MERN stack & problem-solving fundamentals at **Masai School, Bangalore**
-- 🎓 B.Tech from **B.N. College of Engineering and Technology, Lucknow** (7.9 CGPA)
-- 💬 Ask me about **React, Next.js, Node.js, NestJS, PostgreSQL & MongoDB**
-- 📫 Reach me at **vinaykeshari076@gmail.com**
-- ⚡ Portfolio: **[vinaykeshari.vercel.app](#)** &nbsp;•&nbsp; Resume available on request
-
-<br/>
-
-## 🛠️ Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,mongodb,postgres,graphql,tailwind,html,css,git,github,figma&theme=dark" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Vinay+Keshari+%F0%9F%91%8B;Full+Stack+Web+Developer+%40+Tatvam+AI+Labs;MERN+%7C+Next.js+%7C+REST+APIs+%7C+Docker;Building+scalable+and+modern+web+apps;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<table align="center">
+<div align="center">
+  <a href="https://linkedin.com/in/vinay-keshari-301125240" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/vkeshari23" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67b73ef4dae27d0d640da26b" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledocs&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=vkeshari23&style=for-the-badge&color=6C63FF" />
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+<table width="100%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="58%">
 
-**Frontend**
-![React](https://img.shields.io/badge/-React.js-20232A?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss)
-![Chakra](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat-square&logo=chakraui)
+### Hi, I'm Vinay Keshari! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 
-**Backend**
-![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+<p>A passionate <strong>Full Stack Web Developer</strong> from <strong>India 🇮🇳</strong>,
+currently crafting modern, AI-powered digital experiences at <strong>Tatvam AI Labs</strong>.</p>
+
+<br/>
+
+🏢 &nbsp;**Company** &nbsp;&nbsp;&nbsp; » &nbsp;Tatvam AI Labs  
+💼 &nbsp;**Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » &nbsp;Full Stack Web Developer  
+🎯 &nbsp;**Focus** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » &nbsp;AI-Powered Web Applications  
+🛠️ &nbsp;**Stack** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » &nbsp;React · Next.js · Node · MongoDB  
+📚 &nbsp;**Learning** &nbsp;» &nbsp;Docker · CI/CD · AI Integration  
+
+<br/>
+
+---
+
+🔭 &nbsp;Building [**MoneyMap**](https://github.com/vkeshari23/MoneyMap-Personal-finance-Tracker-/tree/main/MoneyMap) — Smart Finance Tracker  
+🤖 &nbsp;Experimenting with **LLM APIs** in real-world projects  
+🐍 &nbsp;Basics of **Python & Django** for backend scripting  
+💬 &nbsp;Ask me about **MERN · Next.js · REST APIs**  
+⚡ &nbsp;*"I turn ☕ into clean, scalable code!"*  
 
 </td>
-<td valign="top" width="50%">
+<td valign="center" width="42%" align="center">
 
-**Database**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
 
-**Tools & Languages**
-![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Open%20to%20Opportunities-6C63FF?style=for-the-badge&logo=handshake&logoColor=white" />
 
 </td>
 </tr>
 </table>
 
-<br/>
+---
+
+## 🚀 What I'm Up To
+
+- 🏢 **Working at** Tatvam AI Labs as a **Full Stack Web Developer**
+- 🔭 **Building** [MoneyMap — Personal Finance Tracker](https://github.com/vkeshari23/MoneyMap-Personal-finance-Tracker-/tree/main/MoneyMap)
+- 🌱 **Exploring** Docker, CI/CD pipelines & AI integration
+- 🤖 **Basic understanding** of AI concepts and how to integrate LLMs into web apps
+- 🐍 **Familiar with** Python & Django for backend scripting
+- 💬 **Ask me about** REST APIs, MERN stack, Next.js, or anything full-stack!
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white" />
+</p>
+
+### ⚙️ Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thunder_Client-6C63FF?style=flat-square&logo=thunderclient&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+</p>
+
+### 🧰 DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/CI%2FCD_Pipeline-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
+### 🤖 AI / Extras
+<p>
+  <img src="https://img.shields.io/badge/AI_Integration_(Basic)-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem_Solving-F7931E?style=flat-square&logo=leetcode&logoColor=white" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 💰 [**MoneyMap**](https://github.com/vkeshari23/MoneyMap-Personal-finance-Tracker-/tree/main/MoneyMap) | Personal Finance Tracker — track income, expenses & savings | React, Node.js, MongoDB |
+| ☕ [**Coffee Website**](https://github.com/vkeshari23/Coffee-Website) | A modern, responsive coffee brand landing page | HTML, CSS, JavaScript |
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vkeshari23&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkeshari23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vkeshari23&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vkeshari23&theme=tokyo-night&hide_border=true&area=true" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=vkeshari23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vkeshari23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 </div>
 
-<br/>
-
-## 🏆 Achievements
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### 🥇 Fingerprint of Sheshi FR2.0
-Awarded for outstanding contribution to the core development of Sheshi FR2.0, a financial reporting platform.
-
-</td>
-<td align="center" width="50%">
-
-### ♟️ Chess Champion
-Recognized for strategic thinking and analytical problem-solving — the same mindset I bring to engineering.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 💼 Featured Projects
-
 <div align="center">
-
-<a href="https://github.com/vkeshari23">
-<img width="410" alt="Sheshi FR2.0" src="https://github-readme-stats.vercel.app/api/pin/?username=vkeshari23&repo=sheshi-fr2&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/vkeshari23">
-<img width="410" alt="Personal Finance Tracker" src="https://github-readme-stats.vercel.app/api/pin/?username=vkeshari23&repo=personal-finance-tracker&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/vkeshari23">
-<img width="410" alt="Divyamarga" src="https://github-readme-stats.vercel.app/api/pin/?username=vkeshari23&repo=divyamarga&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/vkeshari23">
-<img width="410" alt="Live Video Conferencing" src="https://github-readme-stats.vercel.app/api/pin/?username=vkeshari23&repo=video-conferencing-app&theme=tokyonight&hide_border=true" />
-</a>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vkeshari23&theme=tokyonight&hide_border=true" />
 </div>
 
-> 💡 **Note:** the pinned-repo cards above render automatically once you pin these repos on your GitHub profile (Profile → Customize your pins). Rename the `repo=` values in this README to match your exact repo names.
-
-<br/>
-
-## 📈 Contribution Snake
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/vkeshari23/vkeshari23/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vkeshari23&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
-> ⚙️ This animated snake needs a one-time GitHub Actions setup — instructions are in the section below.
+---
 
-<br/>
-
-## 📬 Let's Connect
+## 🏆 GitHub Trophies
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vkeshari23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
 
-<a href="https://www.linkedin.com/in/vinay-keshari-301125240/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:vinaykeshari076@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.me/919305266247"><img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+---
 
-<br/><br/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38D6F5,100:2F6BFF&height=100&section=footer" />
-
+<div align="center">
+  <sub>⚡ Built with passion by <strong>Vinay Keshari</strong> — Open to exciting opportunities!</sub>
 </div>

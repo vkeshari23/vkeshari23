@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vinay%20Keshari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Web%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20AI%20Enthusiast&descAlignY=56&descSize=16&descColor=cccccc" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vinay%20Keshari&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js%20%7C%20NestJS%20%7C%20AI%20Enthusiast&descAlignY=56&descSize=16&descColor=cccccc" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Vinay+Keshari+%F0%9F%91%8B;Full+Stack+Web+Developer+%40+Tatvam+AI+Labs;MERN+%7C+Next.js+%7C+REST+APIs+%7C+Docker;Building+scalable+and+modern+web+apps;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Vinay+Keshari+%F0%9F%91%8B;Full+Stack+Developer+%40+Tatvam+AI+Labs;MERN+%7C+Next.js+%7C+NestJS+%7C+GraphQL+%7C+PostgreSQL;Building+scalable%2C+production-grade+web+apps;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -14,6 +14,9 @@
   </a>
   <a href="https://github.com/vkeshari23" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:vinaykeshari076@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67b73ef4dae27d0d640da26b" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledocs&logoColor=white" />
@@ -31,36 +34,34 @@
 
 ### Hi, I'm Vinay Keshari! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
 
-<p>A passionate <strong>Full Stack Web Developer</strong> from <strong>India 🇮🇳</strong>,
-currently crafting modern, AI-powered digital experiences at <strong>Tatvam AI Labs</strong>.</p>
+<p>Results-driven <strong>Full Stack Developer</strong> from <strong>India 🇮🇳</strong> with 10+ months of industry
+and freelance experience building scalable, production-grade web applications across fintech, e-commerce, and
+enterprise domains. Currently building AI-powered web platforms at <strong>Tatvam AI Labs</strong>.</p>
 
 <br/>
 
-🏢 &nbsp;**Company** &nbsp;&nbsp;&nbsp; » &nbsp;Tatvam AI Labs  
-💼 &nbsp;**Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » &nbsp;Full Stack Web Developer  
+🏢 &nbsp;**Company** &nbsp;&nbsp;&nbsp; » &nbsp;Tatvam AI Labs, Bangalore  
+💼 &nbsp;**Role** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » &nbsp;Full Stack Developer (MERN)  
 🎯 &nbsp;**Focus** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » &nbsp;AI-Powered Web Applications  
-🛠️ &nbsp;**Stack** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » &nbsp;React · Next.js · Node · MongoDB  
-📚 &nbsp;**Learning** &nbsp;» &nbsp;Docker · CI/CD · AI Integration  
+🛠️ &nbsp;**Stack** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; » &nbsp;React · Next.js · NestJS · Node · PostgreSQL · MongoDB  
+📚 &nbsp;**Learning** &nbsp;» &nbsp;Docker · CI/CD · GraphQL  
 
 <br/>
 
 ---
 
-🔭 &nbsp;Building [**MoneyMap**](https://github.com/vkeshari23/MoneyMap-Personal-finance-Tracker-/tree/main/MoneyMap) — Smart Finance Tracker  
-🤖 &nbsp;Experimenting with **LLM APIs** in real-world projects  
-🐍 &nbsp;Basics of **Python & Django** for backend scripting  
-💬 &nbsp;Ask me about **MERN · Next.js · REST APIs**  
-⚡ &nbsp;*"I turn ☕ into clean, scalable code!"*  
+🔭 &nbsp;Building **Live Video Conferencing App** — real-time MERN app with a collaborative in-call notepad  
+🏢 &nbsp;Previously **SDE-1 @ Sheshi AI** — shipped Sheshi FR2.0, a financial reporting platform  
+🏆 &nbsp;Awarded **'Fingerprint of Sheshi FR2.0'** for outstanding contribution to core product development  
+🎓 &nbsp;Full Stack Web Development (MERN) grad, **Masai School**, Bangalore  
+💬 &nbsp;Ask me about **MERN · Next.js · NestJS · GraphQL · REST APIs**  
+⚡ &nbsp;*"I turn ☕ into clean, scalable code!"*
 
 </td>
 <td valign="center" width="42%" align="center">
-
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%"/>
-
 <br/><br/>
-
 <img src="https://img.shields.io/badge/Open%20to%20Opportunities-6C63FF?style=for-the-badge&logo=handshake&logoColor=white" />
-
 </td>
 </tr>
 </table>
@@ -69,12 +70,12 @@ currently crafting modern, AI-powered digital experiences at <strong>Tatvam AI L
 
 ## 🚀 What I'm Up To
 
-- 🏢 **Working at** Tatvam AI Labs as a **Full Stack Web Developer**
-- 🔭 **Building** [MoneyMap — Personal Finance Tracker](https://github.com/vkeshari23/MoneyMap-Personal-finance-Tracker-/tree/main/MoneyMap)
-- 🌱 **Exploring** Docker, CI/CD pipelines & AI integration
-- 🤖 **Basic understanding** of AI concepts and how to integrate LLMs into web apps
-- 🐍 **Familiar with** Python & Django for backend scripting
-- 💬 **Ask me about** REST APIs, MERN stack, Next.js, or anything full-stack!
+- 🏢 **Working at** Tatvam AI Labs as a **Full Stack Developer (MERN)** — building Divyamarga, Gurumurthy Guruji & Sai Samasthana
+- 🔭 **Building** Live Video Conferencing App — a real-time, multi-user MERN app with a collaborative in-call notepad
+- 🏆 **Awarded** 'Fingerprint of Sheshi FR2.0' for outstanding contribution during my time at Sheshi AI
+- 🌱 **Exploring** Docker, CI/CD pipelines, GraphQL & deeper AI integration
+- 🤝 **Freelanced** for 4 months, owning full delivery cycles from UI design to deployment
+- 💬 **Ask me about** REST/GraphQL APIs, MERN stack, Next.js, NestJS, or anything full-stack!
 
 ---
 
@@ -82,30 +83,30 @@ currently crafting modern, AI-powered digital experiences at <strong>Tatvam AI L
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=flat-square&logo=chakraui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
 </p>
 
 ### ⚙️ Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Thunder_Client-6C63FF?style=flat-square&logo=thunderclient&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 </p>
 
 ### 🧰 DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
 </p>
 <p>
   <img src="https://img.shields.io/badge/CI%2FCD_Pipeline-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
@@ -114,7 +115,7 @@ currently crafting modern, AI-powered digital experiences at <strong>Tatvam AI L
 ### 🤖 AI / Extras
 <p>
   <img src="https://img.shields.io/badge/AI_Integration_(Basic)-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem_Solving-F7931E?style=flat-square&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA_%26_OOP-F7931E?style=flat-square&logo=leetcode&logoColor=white" />
 </p>
 
 ---
@@ -125,10 +126,19 @@ currently crafting modern, AI-powered digital experiences at <strong>Tatvam AI L
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| 💰 [**MoneyMap**](https://github.com/vkeshari23/MoneyMap-Personal-finance-Tracker-/tree/main/MoneyMap) | Personal Finance Tracker — track income, expenses & savings | React, Node.js, MongoDB |
+| 🏢 **Futureloopix — Company Website** | Designed & built the complete, fully responsive frontend for a startup's official company website, shipped end to end | Next.js, Tailwind CSS |
+| 💰 [**MoneyMap**](https://github.com/vkeshari23/MoneyMap-Personal-finance-Tracker-/tree/main/MoneyMap) | Personal Finance Tracker — track income, expenses & savings with daily/weekly/monthly/yearly filters and GraphQL-powered insights | React.js, Node.js, Express, MongoDB, GraphQL |
+| 🎥 **Live Video Conferencing App** | Real-time, multi-user video conferencing platform with a collaborative in-call notepad · *Under Development* | MERN Stack |
 | ☕ [**Coffee Website**](https://github.com/vkeshari23/Coffee-Website) | A modern, responsive coffee brand landing page | HTML, CSS, JavaScript |
 
 </div>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Recipient of the **'Fingerprint of Sheshi FR2.0'** award for excellence in product development at Sheshi AI
+- ♟️ **Chess Champion** — recognized for strategic thinking and analytical problem-solving
 
 ---
 

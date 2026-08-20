@@ -18,10 +18,6 @@
   <a href="mailto:vinaykeshari076@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://resume-builder-test-new.masaischool.com/resume/public?resumeId=67b73ef4dae27d0d640da26b" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledocs&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=vkeshari23&style=for-the-badge&color=6C63FF" />
 </div>
 
 ---
